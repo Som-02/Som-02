@@ -66,7 +66,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🎵 MusicWave x Cloud](https://github.com/Som-02/MusicWavexCloud) | Full-stack music streaming app with artist & album pages, playlists, and user auth | HTML, CSS, JS, Express.js, Node.js, MongoDB |
-| [🤖 AI Language Tutor](https://github.com/Som-02/ai-language-tutor) | AI-powered language learning app for real-time conversation practice | React, Node.js, Express, Gemini API, WebSpeech API |
+| [🤖 AI Language Tutor](https://github.com/Som-02/ai-language-tutor) | AI-powered language learning app for real-time conversation practice | React.js, Node.js, Express.js, Gemini API, WebSpeech API |
 | [🎶 Whispers In Tune](https://github.com/Som-02/WhispersInTune) | Share a heartfelt message paired with a YouTube song that speaks for you | HTML, CSS, JS, Express.js, Node.js, MongoDB |
 | [⚔️ Procrastination Killer](https://github.com/Som-02/Procrastination-Killer) | Windows desktop app that tracks active app usage to fight distraction | Java, Maven, Swing, JNA |
 | [🌐 Language Translator](https://github.com/Som-02/Language-Translator-Python-Project) | Python desktop GUI app for instant translation across 100+ languages | Python, Tkinter, Googletrans API |
