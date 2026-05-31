@@ -65,22 +65,18 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🎵 MusicWave x Cloud](https://github.com/Som-02/MusicWavexCloud) | Full-stack music streaming app with artist & album pages, playlists, and user auth | HTML, CSS, JS, Node.js, MongoDB |
-| [🤖 AI Language Tutor](https://github.com/Som-02/ai-language-tutor) | AI-powered language learning app for real-time conversation practice | React, Node.js, Express, OpenAI |
-| [🎶 Whispers In Tune](https://github.com/Som-02/WhispersInTune) | Share a heartfelt message paired with a YouTube song that speaks for you | HTML, JS, Node.js, MongoDB |
-| [⚔️ Procrastination Killer](https://github.com/Som-02/Procrastination-Killer) | Windows desktop app that tracks active app usage to fight distraction | Java, JNA, Gson, Tkinter |
-| [🌐 Language Translator](https://github.com/Som-02/Language-Translator-Python-Project) | Python desktop GUI app for instant translation across 100+ languages | Python, Tkinter, Google Translate |
-| [📦 Courier Management System](https://github.com/Som-02/Courier-Management-System) | Full-stack courier tracking and management system | JavaScript, Node.js |
+| [🎵 MusicWave x Cloud](https://github.com/Som-02/MusicWavexCloud) | Full-stack music streaming app with artist & album pages, playlists, and user auth | HTML, CSS, JS, Express.js, Node.js, MongoDB |
+| [🤖 AI Language Tutor](https://github.com/Som-02/ai-language-tutor) | AI-powered language learning app for real-time conversation practice | React, Node.js, Express, Gemini API, WebSpeech API |
+| [🎶 Whispers In Tune](https://github.com/Som-02/WhispersInTune) | Share a heartfelt message paired with a YouTube song that speaks for you | HTML, JS, Express.js, Node.js, MongoDB |
+| [⚔️ Procrastination Killer](https://github.com/Som-02/Procrastination-Killer) | Windows desktop app that tracks active app usage to fight distraction | Java, Maven, Swing, JNA |
+| [🌐 Language Translator](https://github.com/Som-02/Language-Translator-Python-Project) | Python desktop GUI app for instant translation across 100+ languages | Python, Tkinter, Googletrans API |
+| [📦 Courier Management System](https://github.com/Som-02/Courier-Management-System) | Full-stack courier tracking and management system | HTML, CSS, JS, Express.js, Node.js, MySQL |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Somnath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Som-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Som-02&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Som-02&theme=tokyonight&hide_border=true)
 
