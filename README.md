@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Somnath Pal
 
-### Full Stack Developer (MERN) | Java | Python | MySQL | DSA
+### Full Stack Developer (MERN) | Java | Python | MySQL
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xsomportfoliox.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://xsomportfoliox.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-somnathpal02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathpal02/)
@@ -64,7 +64,16 @@
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Relevant Coursework**
+
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F61?style=flat-square&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-6A0DAD?style=flat-square&logo=buffer&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-F7971E?style=flat-square&logo=thealgorithms&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-0078D4?style=flat-square&logo=cisco&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-2ECC71?style=flat-square&logo=gitbook&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
