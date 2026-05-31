@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Somnath Pal
 
-### Full Stack Developer (MERN) | Java | Python | DSA
+### Full Stack Developer (MERN) | Java | Python | MySQL | DSA
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xsomportfoliox.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://xsomportfoliox.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-somnathpal02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathpal02/)
@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **MCA Graduate** from Chandigarh University (2026) | BSc Mathematics, Calcutta University
+- 🎓 **MCA Graduate** from Chandigarh University (2026) | BSc Mathematics Honours, Calcutta University (2023)
 - 💼 Actively looking for **SDE Internships** and **Entry-Level Full Stack roles**
-- 🔭 Currently building projects with **MERN Stack** and exploring **Cloud Deployments**
+- 🔭 Currently building projects with **MERN Stack** and exploring **AI agents** with **MCP**
 - 🌱 Learning more about **System Design**, **DSA**, and **REST API best practices**
-- 💬 Ask me about **Node.js, React, Express, MongoDB, Java, Python**
+- 💬 Ask me about **Node.js, React, Express, MongoDB, Java, Python, MySQL**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/somnathpal02/)** or **[Twitter](https://x.com/iamsom02)**
 
 ---
@@ -67,7 +67,7 @@
 |--------|-------------|------|
 | [🎵 MusicWave x Cloud](https://github.com/Som-02/MusicWavexCloud) | Full-stack music streaming app with artist & album pages, playlists, and user auth | HTML, CSS, JS, Express.js, Node.js, MongoDB |
 | [🤖 AI Language Tutor](https://github.com/Som-02/ai-language-tutor) | AI-powered language learning app for real-time conversation practice | React, Node.js, Express, Gemini API, WebSpeech API |
-| [🎶 Whispers In Tune](https://github.com/Som-02/WhispersInTune) | Share a heartfelt message paired with a YouTube song that speaks for you | HTML, JS, Express.js, Node.js, MongoDB |
+| [🎶 Whispers In Tune](https://github.com/Som-02/WhispersInTune) | Share a heartfelt message paired with a YouTube song that speaks for you | HTML, CSS, JS, Express.js, Node.js, MongoDB |
 | [⚔️ Procrastination Killer](https://github.com/Som-02/Procrastination-Killer) | Windows desktop app that tracks active app usage to fight distraction | Java, Maven, Swing, JNA |
 | [🌐 Language Translator](https://github.com/Som-02/Language-Translator-Python-Project) | Python desktop GUI app for instant translation across 100+ languages | Python, Tkinter, Googletrans API |
 | [📦 Courier Management System](https://github.com/Som-02/Courier-Management-System) | Full-stack courier tracking and management system | HTML, CSS, JS, Express.js, Node.js, MySQL |
