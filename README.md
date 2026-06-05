@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Somnath Pal
 
-### Full Stack Developer (MERN) | Java | Python | MySQL
+### Full Stack Developer (MERN) | AI Agents | LangChain · LangGraph · Gemini API | Python | Java | MySQL
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xsomportfoliox.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://xsomportfoliox.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-somnathpal02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathpal02/)
@@ -15,11 +15,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **MCA Graduate** from Chandigarh University (2026) | BSc Mathematics Honours, Calcutta University (2023)
-- 💼 Actively looking for **SDE Internships** and **Entry-Level Full Stack roles**
-- 🔭 Currently building projects with **MERN Stack** and exploring **AI agents** with **MCP**
-- 🌱 Learning more about **System Design**, **DSA**, and **REST API best practices**
-- 💬 Ask me about **Node.js, React, Express, MongoDB, Java, Python, MySQL**
+- 🎓 **MCA** from Chandigarh University (2026) | **B.Sc. Mathematics (Hons.)** from Calcutta University (2023)
+- 💼 Actively seeking **SDE Internships** and **Entry-Level Full Stack / AI roles**
+- 🔭 Currently building production **AI Agents** with **LangChain, LangGraph, FastAPI, and AWS EC2**
+- 🤖 Shipped a live **AI Language Tutor** — real-time grammar correction, voice I/O, Gemini API, CI/CD on Vercel + Render
+- 🌱 Exploring **MCP (Model Context Protocol)**, **System Design**, and **cloud deployments**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, LangChain, Gemini API, Python, Java**
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/somnathpal02/)** or **[Twitter](https://x.com/iamsom02)**
 
 ---
@@ -32,6 +33,18 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F61?style=flat-square&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -39,6 +52,7 @@
 
 **Frameworks and Libraries**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -51,6 +65,7 @@
 
 **Dev Tools & Platforms**
 
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
