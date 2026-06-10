@@ -100,7 +100,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🧠 Sync Brain](https://github.com/Som-02/Sync-Brain) | Personal AI assistant with multi-step agentic pipelines, FastAPI backend, and Streamlit UI deployed on AWS EC2 | Python, LangChain, LangGraph, FastAPI, Streamlit, AWS EC2 |
+| [🧠 Sync Brain](https://github.com/Som-02/langchain-agent-chat-ui) | Personal AI assistant with multi-step agentic pipelines, FastAPI backend, and Streamlit UI deployed on AWS EC2 | Python, LangChain, LangGraph, FastAPI, Streamlit, AWS EC2 |
 | [🤖 AI Language Tutor](https://github.com/Som-02/ai-language-tutor) | Full-stack AI language learning platform with live grammar feedback, dual speech modes, flashcards, and analytics dashboard | React.js, Node.js, Express.js, MongoDB, Gemini API, Web Speech API |
 | [🎵 MusicWave x Cloud](https://github.com/Som-02/MusicWavexCloud) | Full-stack music streaming app with artist & album pages, mood-based playlists, and user auth | HTML, CSS, JS, Express.js, Node.js, MongoDB |
 | [⚔️ Procrastination Killer](https://github.com/Som-02/Procrastination-Killer) | Real-time Windows productivity monitor with native process tracking, Swing GUI, and zero-dependency .exe packaging | Java, Maven, Swing, JNA |
