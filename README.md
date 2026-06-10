@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Somnath Pal
 
-### Full Stack Developer (MERN) | AI Agents | LangChain · LangGraph · Gemini API | Python | Java | MySQL
+### Full Stack Developer (MERN) | AI Agents | LangChain · LangGraph · Gemini API | Python | Java
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xsomportfoliox.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://xsomportfoliox.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-somnathpal02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathpal02/)
@@ -42,6 +42,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
@@ -57,10 +58,13 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Dev Tools & Platforms**
@@ -96,12 +100,30 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🎵 MusicWave x Cloud](https://github.com/Som-02/MusicWavexCloud) | Full-stack music streaming app with artist & album pages, playlists, and user auth | HTML, CSS, JS, Express.js, Node.js, MongoDB |
-| [🤖 AI Language Tutor](https://github.com/Som-02/ai-language-tutor) | AI-powered language learning app for real-time conversation practice | React.js, Node.js, Express.js, Gemini API, WebSpeech API |
-| [🎶 Whispers In Tune](https://github.com/Som-02/WhispersInTune) | Share a heartfelt message paired with a YouTube song that speaks for you | HTML, CSS, JS, Express.js, Node.js, MongoDB |
-| [⚔️ Procrastination Killer](https://github.com/Som-02/Procrastination-Killer) | Windows desktop app that tracks active app usage to fight distraction | Java, Maven, Swing, JNA |
-| [🌐 Language Translator](https://github.com/Som-02/Language-Translator-Python-Project) | Python desktop GUI app for instant translation across 100+ languages | Python, Tkinter, Googletrans API |
-| [📦 Courier Management System](https://github.com/Som-02/Courier-Management-System) | Full-stack courier tracking and management system | HTML, CSS, JS, Express.js, Node.js, MySQL |
+| [🧠 Sync Brain](https://github.com/Som-02/Sync-Brain) | Personal AI assistant with multi-step agentic pipelines, FastAPI backend, and Streamlit UI deployed on AWS EC2 | Python, LangChain, LangGraph, FastAPI, Streamlit, AWS EC2 |
+| [🤖 AI Language Tutor](https://github.com/Som-02/ai-language-tutor) | Full-stack AI language learning platform with live grammar feedback, dual speech modes, flashcards, and analytics dashboard | React.js, Node.js, Express.js, MongoDB, Gemini API, Web Speech API |
+| [🎵 MusicWave x Cloud](https://github.com/Som-02/MusicWavexCloud) | Full-stack music streaming app with artist & album pages, mood-based playlists, and user auth | HTML, CSS, JS, Express.js, Node.js, MongoDB |
+| [⚔️ Procrastination Killer](https://github.com/Som-02/Procrastination-Killer) | Real-time Windows productivity monitor with native process tracking, Swing GUI, and zero-dependency .exe packaging | Java, Maven, Swing, JNA |
+| [📦 Courier Management System](https://github.com/Som-02/Courier-Management-System) | Full-stack logistics platform with dual role-based dashboards, RESTful shipment tracking, and normalised MySQL schema | HTML, CSS, JS, Express.js, Node.js, MySQL |
+| [🎶 Whispers In Tune](https://github.com/Som-02/WhispersInTune) | Anonymous emotion-sharing app — pair a heartfelt message with a YouTube song | HTML, CSS, JS, Express.js, Node.js, MongoDB |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | CGPA |
+|--------|------------|------|------|
+| Master of Computer Applications (MCA) | Chandigarh University | 2024–2026 | 7.9 / 10 |
+| B.Sc. Mathematics (Hons.) | Calcutta University | 2020–2023 | 7.63 / 10 |
+
+---
+
+## 🏅 Certificates
+
+- 🤖 **Building Your First AI Agent with OpenAI** — Coursera
+- 💼 **Introduction to Software Engineering Job Simulation** — The Forage
+- 📊 **Principles of Machine Learning** — Coursera
+- 🔬 **Introduction to Applied Machine Learning** — Coursera
 
 ---
 
