@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Somnath Pal
 
-### Full Stack Developer (MERN) | AI Agents | LangChain · LangGraph · Gemini API | Python | Java
+### Full Stack Developer (MERN) | AI Agents | LangChain · LangGraph · RAG · Gemini API | Python | Java
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-xsomportfoliox.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://xsomportfoliox.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-somnathpal02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathpal02/)
@@ -17,7 +17,7 @@
 
 - 🎓 **MCA** from Chandigarh University (2026) | **B.Sc. Mathematics (Hons.)** from Calcutta University (2023)
 - 💼 Actively seeking **SDE Internships** and **Entry-Level Full Stack / AI roles**
-- 🔭 Currently building production **AI Agents** with **LangChain, LangGraph, FastAPI, and AWS EC2**
+- 🔭 Currently building production **AI Agents** with **LangChain, LangGraph, RAG, FastAPI, and AWS EC2**
 - 🤖 Shipped a live **AI Language Tutor** — real-time grammar correction, voice I/O, Gemini API, CI/CD on Vercel + Render
 - 🌱 Exploring **MCP (Model Context Protocol)**, **System Design**, and **cloud deployments**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, LangChain, Gemini API, Python, Java**
