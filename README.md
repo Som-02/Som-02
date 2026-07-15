@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **MCA** from Chandigarh University (2026) | **B.Sc. Mathematics (Hons.)** from Calcutta University (2023)
+- 🎓 **MCA** Graduate from Chandigarh University (2026) | **B.Sc. Mathematics (Hons.)** from Calcutta University (2023)
 - 💼 Actively seeking **SDE Internships** and **Entry-Level Full Stack / AI roles**
 - 🔭 Currently building production **AI Agents** with **LangChain, LangGraph, RAG, FastAPI, and AWS EC2**
 - 🤖 Shipped a live **AI Language Tutor** — real-time grammar correction, voice I/O, Gemini API, CI/CD on Vercel + Render
