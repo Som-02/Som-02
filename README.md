@@ -1,5 +1,6 @@
 <div align="center">
-
+![Profile Views](https://komarev.com/ghpvc/?username=Som-02&color=blueviolet&style=flat-square&label=Profile+Views)
+  
 # 👋 Hi, I'm Somnath Pal
 
 ### Full Stack Developer (MERN) | AI Agents | LangChain · LangGraph · RAG · Gemini API | Python | Java
@@ -8,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-somnathpal02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathpal02/)
 [![Twitter](https://img.shields.io/badge/Twitter-@iamsom02-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iamsom02)
 [![Location](https://img.shields.io/badge/📍-Delhi,_India-FF5733?style=for-the-badge)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=Som-02&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
 
 ---
