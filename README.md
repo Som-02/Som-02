@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-xsomportfoliox.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://xsomportfoliox.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-somnathpal02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somnathpal02/)
 [![Twitter](https://img.shields.io/badge/Twitter-@iamsom02-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iamsom02)
-[![Location](https://img.shields.io/badge/📍-Delhi,_India-FF5733?style=for-the-badge)](#)
+[![Location](https://img.shields.io/badge/📍-India-FF5733?style=for-the-badge)](#)
 ![Profile Views](https://komarev.com/ghpvc/?username=Som-02&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
 
