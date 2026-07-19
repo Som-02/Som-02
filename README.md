@@ -1,5 +1,4 @@
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Som-02&color=blueviolet&style=flat-square&label=Profile+Views)
 # 👋 Hi, I'm Somnath Pal
 
 ### Full Stack Developer (MERN) | AI Agents | LangChain · LangGraph · RAG · Gemini API | Python | Java
