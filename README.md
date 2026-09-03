@@ -113,7 +113,7 @@
 
 | Degree | Institution | Year | CGPA |
 |--------|------------|------|------|
-| Master of Computer Applications (MCA) | Chandigarh University | 2024–2026 | 7.9 / 10 |
+| Master of Computer Applications (MCA) | Chandigarh University | 2024–2026 | 7.94 / 10 |
 | B.Sc. Mathematics (Hons.) | Calcutta University | 2020–2023 | 7.63 / 10 |
 
 ---
